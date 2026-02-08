@@ -1,0 +1,36 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+venv/
+env/
+
+# Project-specific
+test_images/
+test_videos/
+output/
+*.jpg
+*.png
+*.mp4
+*.avi
+*.mov
+
+# YOLO models (downloaded automatically)
+*.pt
+runs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.md
+# OS
+.DS_Store
+Thumbs.db
