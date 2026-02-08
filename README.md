@@ -33,7 +33,7 @@ Here is the system in action:
 ## 🎯 Features
 
 *   **Object Detection**: Identifies people and common objects using YOLOv8.
-*   **Posture Classification**: Categorizes human poses into **Standing**, **Sitting**, or **Bending**.
+*   **Posture Classification**: Categorizes human poses into **Standing** (Green), **Sitting** (Blue), or **Bending** (Red).
 *   **Visual Output**: Draws bounding boxes, keypoint skeletons, and confidence labels.
 *   **Multi-mode**: Supports images, videos, and live webcam feeds.
 
